@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Grid-PCB)(type KiCad)(uri ${KIPRJMOD}/lib/Grid-PCB.pretty)(options "")(descr ""))
+)
