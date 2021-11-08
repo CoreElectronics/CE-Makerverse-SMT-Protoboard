@@ -2,7 +2,7 @@
 
 ![](Documents/showcase-render.png)
 
-This is the repo for the Core Electronics [Makerverse SMT Protoboard](https://core-electronics.com.au/catalog/product/view/sku/ce08044).
+This is the repo for the Core Electronics [Makerverse™ SMT Protoboard](https://core-electronics.com.au/catalog/product/view/sku/ce08044).
 
 ## License
 This project is open source - please review the LICENSE.md file for further licensing information.
